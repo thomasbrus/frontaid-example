@@ -2,7 +2,7 @@
   "title": "FrontAid CMS with Next.js",
   "index": {
     "title": "Index Page",
-    "content": "<p>Some <strong>index</strong> content...</p>"
+    "content": "<p>Some <strong>index</strong> content... goes here!</p>"
   },
   "pages": [
     {
